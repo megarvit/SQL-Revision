@@ -1,7 +1,5 @@
 # SQL-Revision
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-Bhoite%2FLastMinuteRevision-SQL&count_bg=%2379C83D&title_bg=%23555555&icon=mysql.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 ## Most Asked SQL Interview Questions :
 
  ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL/assets/117765637/02d8924d-6297-43d3-8680-1a0e114d7302)
